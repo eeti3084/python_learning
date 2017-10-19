@@ -8,3 +8,8 @@ print (my_list[-1])
 print (my_list[3:8])
 print (my_list[-7:-2])
 print (my_list[2:-1:2])
+print(my_list[::-1])
+url="https://google.com"
+print(url)
+reverse=url[8:]
+print(reverse)
