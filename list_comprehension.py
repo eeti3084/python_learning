@@ -30,3 +30,10 @@ print(my_dic)
 
 my_dict={name:hero for name,hero in zip(names,heros) if name !='peter'}
 print(my_dict)
+
+
+nums=[1,1,2,3,4,4,4,4,5,5,6,6,6,6]
+my_set=set()
+for n in nums:
+    my_set.add(n)
+print(my_set)
