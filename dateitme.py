@@ -20,3 +20,4 @@ print(till_bday.total_seconds())
 
 t=datetime.datetime(2017,10,22,9,30,45,100000)
 print(t)
+
